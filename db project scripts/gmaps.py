@@ -33,7 +33,7 @@ def main():
 
          url = "https://maps.googleapis.com/maps/api/directions/json?origin=Winnipeg&destination=" 
          url += searchString + "+winnipeg"
-         url += "&mode=walking&key=AIzaSyBSQGLUtm0eifJQPJoIGcxICXFiqu0yVe4"
+         url += "&mode=walking&key=AIzaSyBSQGLUtm0eifJQPJoIGcxICXFiqu0yVe45"
 
          payload={}
          headers = {}
